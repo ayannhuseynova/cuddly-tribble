@@ -1,0 +1,57 @@
+head,
+h1 {
+  text-align: center;
+  color: rgb(118, 52, 52);
+}
+
+head,
+h4 {
+  color: black;
+  text-align: center;
+}
+
+head,
+.italic-text {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+head,
+i {
+  text-align: center !important;
+}
+
+main {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+main,
+h3 {
+  color: rgb(118, 52, 52);
+}
+
+h3 {
+  border-bottom: 2px solid rgb(118, 52, 52);
+}
+
+main,
+div {
+  color: black;
+}
+main,
+ul {
+  color: black;
+}
+
+.first-left {
+  font-weight: 900;
+  font-size: 20px;
+}
+.first-right {
+  font-weight: 900;
+}
+
+footer {
+  margin-top: 5vh;
+  text-align: center;
+}
